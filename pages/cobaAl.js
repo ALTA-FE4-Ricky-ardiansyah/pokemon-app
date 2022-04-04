@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from "react";
-import { getPokemons } from "../service/pokemon";
+
 import CardCoba from "./components/CardCoba";
 export default function cobaAl() {
-  const [pokemons, setPokemons] = useState([]);
+  // const [pokemons, setPokemons] = useState([]);
 
-  useEffect(() => {
-    getPokemons("https://pokeapi.co/api/v2/pokemon/?limit=10").then((data) => {
-      setPokemons(data);
-    });
-  }, []);
+  // useEffect(() => {
+  //   getPokemons("https://pokeapi.co/api/v2/pokemon/?limit=10").then((data) => {
+  //     setPokemons(data);
+  //   });
+  // }, []);
 
   return (
     <div>

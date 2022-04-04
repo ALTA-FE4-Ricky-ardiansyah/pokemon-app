@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/router";
-import ComponentDetail from "../components/ComponentDetail";
+
 import { getPokemons } from "../../service/pokemon";
 import Link from "next/link";
 
