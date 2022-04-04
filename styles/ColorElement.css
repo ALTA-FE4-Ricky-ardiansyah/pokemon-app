@@ -1,0 +1,215 @@
+.rock {
+  background-color: #b69e31;
+}
+
+.rock-border {
+  border: 2px solid #b69e31;
+}
+
+.rock-txt {
+  color: #b69e31;
+}
+
+.ghost {
+  background-color: #70559b;
+}
+
+.ghost-border {
+  border: 2px solid #70559b;
+}
+
+.ghost-txt {
+  color: #70559b;
+}
+
+.steel {
+  background-color: #b7b9d0;
+}
+
+.steel-border {
+  border: 2px solid #b7b9d0;
+}
+
+.steel-txt {
+  color: #b7b9d0;
+}
+
+.water {
+  background-color: #6493eb;
+}
+
+.water-border {
+  border: 2px solid #6493eb;
+}
+
+.water-txt {
+  color: #6493eb;
+}
+
+.grass {
+  background-color: #74cb48;
+}
+
+.grass-border {
+  border: 2px solid #74cb48;
+}
+
+.grass-txt {
+  color: #74cb48;
+}
+
+.psychic {
+  background-color: #fb5584;
+}
+
+.psychic-border {
+  border: 2px solid #fb5584;
+}
+
+.psychic-txt {
+  color: #fb5584;
+}
+
+.ice {
+  background-color: #9ad6df;
+}
+
+.ice-border {
+  border: 2px solid #9ad6df;
+}
+
+.ice-txt {
+  color: #9ad6df;
+}
+
+.dark {
+  background-color: #70559b;
+}
+
+.dark-border {
+  border: 2px solid #70559b;
+}
+
+.dark-txt {
+  color: #70559b;
+}
+
+.fairy {
+  background-color: #ffc3f3;
+}
+
+.fairy-border {
+  border: 2px solid #ffc3f3;
+}
+
+.fairy-txt {
+  color: #ffc3f3;
+}
+
+.normal {
+  background-color: #a8a878;
+}
+
+.normal-border {
+  border: 2px solid #a8a878;
+}
+
+.normal-txt {
+  color: #a8a878;
+}
+
+.fighting {
+  background-color: #c03028;
+}
+
+.fighting-border {
+  border: 2px solid #c03028;
+}
+
+.fighting-txt {
+  color: #c03028;
+}
+
+.flying {
+  background-color: #a890f0;
+}
+
+.flying-border {
+  border: 2px solid #a890f0;
+}
+
+.flying-txt {
+  color: #a890f0;
+}
+
+.poison {
+  background-color: #a040a0;
+}
+
+.poison-border {
+  border: 2px solid #a040a0;
+}
+
+.poison-txt {
+  color: #a040a0;
+}
+
+.ground {
+  background-color: #e0c068;
+}
+
+.ground-border {
+  border: 2px solid #e0c068;
+}
+
+.ground-txt {
+  color: #e0c068;
+}
+
+.bug {
+  background-color: #a8b820;
+}
+
+.bug-border {
+  border: 2px solid #a8b820;
+}
+
+.bug-txt {
+  color: #a8b820;
+}
+
+.fire {
+  background-color: #f08030;
+}
+
+.fire-border {
+  border: 2px solid #f08030;
+}
+
+.fire-txt {
+  color: #f08030;
+}
+
+.electric {
+  background-color: #f8d030;
+}
+
+.electric-border {
+  border: 2px solid #f8d030;
+}
+
+.electric-txt {
+  color: #f8d030;
+}
+
+.dragon {
+  background-color: #7038f8;
+}
+
+.dragon-border {
+  border: 2px solid #7038f8;
+}
+
+.dragon-txt {
+  color: #7038f8;
+}
