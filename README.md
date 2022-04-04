@@ -36,3 +36,6 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # pokemon-app
+
+
+![FireShot Capture 006 -  - localhost](https://user-images.githubusercontent.com/24351451/161607743-0307045c-5a02-4ab4-86c6-1e136710d4de.png)
